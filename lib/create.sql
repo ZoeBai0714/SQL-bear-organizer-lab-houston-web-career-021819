@@ -5,5 +5,5 @@ CREATE TABLE bears(
   gender
   color
   temperament
-  alive
+  alive  BOOLEAN
 )
