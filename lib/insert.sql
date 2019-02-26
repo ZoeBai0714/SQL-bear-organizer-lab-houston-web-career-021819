@@ -1,1 +1,1 @@
-SELECT count(*) FROM bears 
+SELECT count(*) FROM bears;
