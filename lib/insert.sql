@@ -1,1 +1,1 @@
-SELECT count() FROM 
+SELECT count(id) FROM bears 
