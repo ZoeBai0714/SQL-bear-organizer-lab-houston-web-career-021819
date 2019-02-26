@@ -4,6 +4,6 @@ CREATE TABLE bears(
   age
   gender
   color
-  temperament
+  temperament 
   alive  BOOLEAN
 )
